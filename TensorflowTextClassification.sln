@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TensorflowTextClassification", "TensorflowTextClassification\TensorflowTextClassification.pyproj", "{337CAB8A-3A1F-41A3-9350-4DE901C8CCA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{337CAB8A-3A1F-41A3-9350-4DE901C8CCA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337CAB8A-3A1F-41A3-9350-4DE901C8CCA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C50578B1-28CC-4A52-B43C-638135215E87}
+	EndGlobalSection
+EndGlobal
